@@ -1,3 +1,11 @@
-p {
-	background-color: orange;
+table {
+  border-style: solid;
+  empty-cells: show;
+}
+th, td {
+  border-style: solid;
+}
+#homeworkNumber {
+  font-weight: normal;
+  font-style: italic;
 }
